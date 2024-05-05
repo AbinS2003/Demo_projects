@@ -1,0 +1,5 @@
+button:hover{
+    background-color: blue;
+    border: 3px solid blue;
+    padding: 5px;
+}
